@@ -1,0 +1,2 @@
+recursive-include tutorscaffold/patches *
+recursive-include tutorscaffold/templates *
